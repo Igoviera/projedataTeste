@@ -102,10 +102,6 @@ O sistema exibe no console todas as operações solicitadas de forma organizada 
 
 ---
 
-## 👨‍💻 Autor
-
-Desenvolvido por **[SEU NOME AQUI]**
-
 ---
 
 ## 📬 Observação
